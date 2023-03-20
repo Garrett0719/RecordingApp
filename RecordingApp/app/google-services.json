@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "61890689413",
+    "project_id": "recordingstore-62198",
+    "storage_bucket": "recordingstore-62198.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61890689413:android:ea276c70514da245f76cec",
+        "android_client_info": {
+          "package_name": "comp5216.sydney.edu.au.recordingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "61890689413-b7itn6brnakdjop574ab8t7npah9a3cg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9Iw__H3HX-2JPCRLg0GDuzbJJoD6JAmQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "61890689413-b7itn6brnakdjop574ab8t7npah9a3cg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
